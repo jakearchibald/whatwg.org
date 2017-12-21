@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
  <head>
-  <title>The WHATWG Workstream Policy</title>
+  <title>WHATWG Workstream Policy</title>
   <link rel="stylesheet" href="/style/tabbed-pages">
   <link rel="icon" href="https://resources.whatwg.org/logo.svg">
  </head>
@@ -19,7 +19,7 @@
    <li><a href="https://participate.whatwg.org/">Participate</a></li>
   </ul>
 
-<h2>The WHATWG Workstream Policy</h2>
+<h2>Workstream Policy</h2>
 <p>If this Workstream Policy conflicts with the <a href="ipr-policy">Intellectual Property Rights Policy</a>, the <a href="ipr-policy">Intellectual Property Rights Policy</a> controls.</p>
 <p>Whenever this Policy says to notify or contact the <a href="sg-agreement#steering-group">Steering Group</a>, this should be done via its issue tracker as defined in the <a href="sg-policy">Steering Group Policy</a>, unless stated otherwise. Informal notice is not sufficient.</p>
 <h3 id="definitions">Definitions<a class="self-link" href="#definitions"></a></h3>

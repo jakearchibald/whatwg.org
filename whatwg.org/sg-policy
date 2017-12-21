@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
  <head>
-  <title>The WHATWG Steering Group Policy</title>
+  <title>WHATWG Steering Group Policy</title>
   <link rel="stylesheet" href="/style/tabbed-pages">
   <link rel="icon" href="https://resources.whatwg.org/logo.svg">
  </head>
@@ -19,7 +19,7 @@
    <li><a href="https://participate.whatwg.org/">Participate</a></li>
   </ul>
 
-<h2>The WHATWG Steering Group Policy</h2>
+<h2>Steering Group Policy</h2>
 <h3 id="purpose-of-this-policy">Purpose of this Policy<a class="self-link" href="#purpose-of-this-policy"></a></h3>
 
 <p>This document sets forth the policies that govern the WHATWG <a href="sg-agreement#steering-group">Steering Group</a>, and may be modified by the <a href="sg-agreement#steering-group">Steering Group</a> from time to time. If the terms of this document conflict with the <a href="sg-agreement">Steering Group Agreement</a>, the <a href="sg-agreement">Steering Group Agreement</a> controls.</p>

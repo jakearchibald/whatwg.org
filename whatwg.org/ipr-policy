@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
  <head>
-  <title>The WHATWG Intellectual Property Rights Policy</title>
+  <title>WHATWG Intellectual Property Rights Policy</title>
   <link rel="stylesheet" href="/style/tabbed-pages">
   <link rel="icon" href="https://resources.whatwg.org/logo.svg">
  </head>
@@ -19,7 +19,7 @@
    <li><a href="https://participate.whatwg.org/">Participate</a></li>
   </ul>
 
-<h2>The WHATWG Intellectual Property Rights Policy</h2>
+<h2>Intellectual Property Rights Policy</h2>
 <p>This Intellectual Property Rights Policy ("<a href="ipr-policy">IPR Policy</a>") applies to all <a href="ipr-policy#21-contribution">Contributions</a> to and publications of the WHATWG, and governs the intellectual property obligations of all <a href="ipr-policy#contributor">Contributors</a> to and <a href="workstream-policy#workstream-participant">Workstream Participants</a> of the WHATWG.</p>
 <p>To the extent any other <a href="https://whatwg.org/policies">WHATWG policies</a>, other than the <a href="sg-agreement">Steering Group Agreement</a>, conflict with this <a href="ipr-policy">IPR Policy</a>, the <a href="ipr-policy">IPR Policy</a> controls.</p>
 <h3 id="1-intellectual-property-obligations">1. Intellectual property obligations<a class="self-link" href="#1-intellectual-property-obligations"></a></h3>
